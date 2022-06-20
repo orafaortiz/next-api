@@ -5,8 +5,8 @@ function Tempo(props) {
 
     return (
         <div>
-            <p>{dynamicDateString} (dinâmico)</p>
-            <p>{props.staticDateString } (estático)</p>
+            <p>{dynamicDateString} (Dinâmico)</p>
+            <p>{props.staticDateString } (Estático)</p>
         </div>
 
         
